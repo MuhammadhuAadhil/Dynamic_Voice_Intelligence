@@ -46,10 +46,10 @@ pip install SpeechRecognition pyttsx3 googletrans==4.0.0-rc1 pyaudio
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author ##
 
-**Muhammadhu Aadhil.S**  
-GitHub: [github.com/MuhammadhuAadhilS](https://github.com/MuhammadhuAadhilS)
+**  Muhammadhu Aadhil.S  **  
+
 
 ---
 
